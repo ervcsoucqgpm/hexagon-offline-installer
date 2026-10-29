@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Hexagon Free Installer** — Hexagon is a 3D polygon and subdivision surface modeler from Daz Productions, available for free as a companion to Daz Studio. Works without internet access, no account required. Full offline installation.
+**💻 Hexagon Free Installer** — Hexagon is a 3D polygon modeling application by Daz 3D that provides subdivision modeling tools for creating base meshes and hard-surface models. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Hexagon
 
-Hexagon is a 3D polygon and subdivision surface modeler from Daz Productions, available for free as a companion to Daz Studio. Create detailed 3D models with polygon modeling tools, subdivision surfaces, and freeform deformations. Hexagon integrates directly with Daz Studio for transferring models and morphs, making it a useful addition to the Daz 3D content creation workflow.
+Hexagon is a 3D polygon modeling application by Daz 3D that provides subdivision modeling tools for creating base meshes and hard-surface models. It integrates with Daz Studio for creating props and clothing for Daz figures.
 
 ---
 
 ## ❌ Problem: Hexagon is hard to access
 
-- **Dated Software** — Limited development; known stability issues on modern operating systems
-- **Daz Ecosystem Focus** — Best suited for Daz Studio users; less standalone value
-- **Modern Features** — Missing PBR workflow, sculpting, and modern modeling tools
-- **Support** — Limited official support and documentation updates
+- **Abandoned Development** — Daz 3D appears to have ceased active development of Hexagon
+- **Outdated Feature Set** — Missing many features added to competing 3D modelers in recent years
+- **Daz Ecosystem Focus** — Most useful as part of a Daz 3D workflow
+- **Free to Download** — Available free from Daz 3D but long-term viability uncertain
 
 ---
 
@@ -121,7 +121,7 @@ Hexagon is a 3D polygon and subdivision surface modeler from Daz Productions, av
 
 ---
 
-**Hexagon Free Installer** — Hexagon is a 3D polygon and subdivision surface modeler from Daz Productions, available for free as a companion to Daz Studio. Install without internet connection today!
+**Hexagon Free Installer** — Hexagon is a 3D polygon modeling application by Daz 3D that provides subdivision modeling tools for creating base meshes and hard-surface models. Install without internet connection today!
 
 <div align="center">
 
